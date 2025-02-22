@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on exciting Machine Learning projects!
 - 📫 How to reach me nkanimozhi31@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading murder mysteries!!
 
 <!---
 kani443/kani443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
