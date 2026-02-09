@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Analytics and Artificial Intelligence
 - 🌱 I’m currently learning B.Tech Computer Science and Engineering (Artificial Intelligence)
 - 💞️ I’m looking to collaborate on exciting Machine Learning projects!
-- 📫 How to reach me nkanimozhi31@gmail.com
+- 📫 How to reach me kanimozhinatarajan70@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
